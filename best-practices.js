@@ -60,7 +60,7 @@ module.exports = {
     'no-unused-expressions': 'off',
     'no-unused-labels': 'error',
     'no-useless-call': 'error',
-    'no-useless-catch': 'error',
+    // 'no-useless-catch': 'error',
     'no-useless-concat': 'error',
     'no-useless-escape': 'error',
     'no-useless-return': 'error',
