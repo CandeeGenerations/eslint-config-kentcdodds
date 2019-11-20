@@ -77,7 +77,7 @@ module.exports = {
     'require-unicode-regexp': 'off',
     'no-misleading-character-class': 'off',
     'no-async-promise-executor': 'off',
-    'no-import-assign': 'error',
+    // 'no-import-assign': 'error',
     'prefer-regex-literals': 'off',
 
     // strict
