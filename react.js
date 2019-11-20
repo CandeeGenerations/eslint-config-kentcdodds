@@ -114,7 +114,7 @@ module.exports = {
     'react/jsx-sort-default-props': 'off',
     'react/jsx-no-useless-fragment': 'warn',
 
-    'react-hooks/exhaustive-deps': 'warn',
+    // 'react-hooks/exhaustive-deps': 'warn',
     'react-hooks/rules-of-hooks': 'error',
   },
 }
