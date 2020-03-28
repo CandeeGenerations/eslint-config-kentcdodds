@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://codefund.io/properties/508/visit-sponsor">
-<img src="https://codefund.io/properties/508/sponsor" />
-</a>
-</p>
-
 # eslint-config-kentcdodds
 
 [![travis build](https://img.shields.io/travis/kentcdodds/eslint-config-kentcdodds.svg?style=flat-square)](https://travis-ci.org/kentcdodds/eslint-config-kentcdodds)
@@ -55,7 +49,7 @@ Or in combination with the base config (recommended)
 }
 ```
 
-**Note**: I'm not certain why, but sometimes you need to have the associated
+**Note**: Due to [this bug](https://github.com/eslint/eslint/issues/3458) you need to have the associated
 plugins installed to make things work. I recommend adding them as dependencies
 to your project if you're going to use the config for it.
 
